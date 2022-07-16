@@ -1,0 +1,41 @@
+https://localhost:44364/api/Airlines
+ {
+        "Name": "Jet Airways",
+        "Owner": "Jet Airways",
+        "Logo": "logo",
+        "ContactNumber": 5566778899
+    }
+
+https://localhost:44364/api/flights/
+
+{
+        "AirlineId": 3,
+        "Name": "Jet Airbus - 301",
+        "FlightNumber": 301,
+        "FromPlace": "delhi",
+        "ToPlace": "pune",
+        "StartDateTime":"2022-07-26T17:17:40",
+        "EndDateTime": "2022-07-26T17:19:40",
+        "ScheduledDays":"sun,mon",
+        "InstumentUsed": "301",
+        "TotalNumberOfBusinessClassSeats": 20,
+        "TotalNumberOfNonBusinessClassSeats": 80,
+        "CostOfBusinessClassSeats": 5000,
+        "CostOfNumberOfNonBusinessClassSeats": 2000,
+        "TotalCost": 100000000,
+        "MealType": 2
+    }
+
+
+https://localhost:44329/api/search
+
+{
+    "FromDate" : "2022-07-26",
+    "ToDate" : "2022-07-27",
+    "FromPlace" : "indore",
+    "ToPlace" : "pune"
+}
+
+
+
+
