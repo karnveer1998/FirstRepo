@@ -53,3 +53,33 @@ https://localhost:44329/api/user
 
 }
 
+
+https://localhost:44329/api/booking/2
+
+{
+
+    "AirlineId":1,
+    "FlightId":1,
+    "UserId":1,
+    "PassengerName":"psg12",
+    "PassengerEmail":"psg12@gmail.com",
+    "Gender":1,
+    "Age":34,
+    "OptForMeal":true,
+    "SeatNumber":3
+
+
+ 
+}
+
+
+https://localhost:44329/api/booking/history/Karnveer@gmail.com
+
+
+
+https://localhost:44329/api/booking/cancel/15032367
+
+
+
+https://localhost:44329/api/ticket/21630430
+
