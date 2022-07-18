@@ -36,6 +36,20 @@ https://localhost:44329/api/search
     "ToPlace" : "pune"
 }
 
+https://localhost:44329/api/user
+{
+     "FirstName": "Karnveer Singh",
+     "LastName" : "Mourya",
+     "Email": "Karnveer@gmail.com",
+     "Password": "12345",
+     "ContactNumber":1122334455,
+     "Role":1,
+     "Gender":1,
+     "Age":22,
+     "Address1":"Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Bangalore-560016",
+     "Address2":"Akshya Nagar 1st Block 1st Cross, Rammurthy nagar, Bangalore-560016",
+     "Pincode":12345
 
 
+}
 
