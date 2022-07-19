@@ -83,3 +83,6 @@ https://localhost:44329/api/booking/cancel/15032367
 
 https://localhost:44329/api/ticket/21630430
 
+
+https://localhost:44314/api/v1.0/flight/booking/history/Karnveer@gmail.com
+
